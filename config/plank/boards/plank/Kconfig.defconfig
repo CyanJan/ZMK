@@ -1,0 +1,6 @@
+if plank
+
+config ZMK_KEYBOARD_NAME
+    default "plank"
+
+endif
