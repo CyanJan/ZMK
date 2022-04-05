@@ -11,5 +11,5 @@
 #     shield: reviung41
 ---
 include:
-  - shield: boardsource5x12
+  - shield: plank
     board: nice_nano_v2
