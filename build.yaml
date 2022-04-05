@@ -11,5 +11,5 @@
 #     shield: reviung41
 ---
 include:
-  - shield: plank
-    board: nice_nano_v2
+  - board: nice_nano_v2
+    shield: pLank
